@@ -1,0 +1,8 @@
+Toma un año como entrada.
+Comprueba si el año es un número de cuatro dígitos.
+Muestra si el año cae o no en un año bisiesto.
+Hay 3 criterios que deben tenerse en cuenta para identificar un año bisiesto:
+
+Si el año se puede dividir uniformemente por 4 entonces es un año bisiesto, sin embargo...
+Si ese año se puede dividir uniformemente por 100, y no se divide uniformemente por 400, entonces NO es un año bisiesto.
+Si ese año es uniformemente divisible por 400, entonces es un año bisiesto.
