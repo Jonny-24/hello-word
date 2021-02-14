@@ -1,4 +1,4 @@
-# hello-world
-Mi primer repositorio de prueba
+# Hola mundo
+Mi primer repositorio
 autor: Jonny
 fecha: 13/02/2021
